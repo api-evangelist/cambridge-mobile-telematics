@@ -1,0 +1,27 @@
+# Cambridge Mobile Telematics
+
+> Cambridge Mobile Telematics (CMT) is the world's largest telematics service provider. Its AI-driven DriveWell Fusion platform fuses sensor data from smartphones, proprietary Tags, connected vehicles, and dashcams to power usage-based insurance, crash detection and assistance, distracted-driving programs, fleet safety, and public-sector road-safety initiatives. Developer access is via the gated DriveWell Mobile SDK (iOS/Android) and the DriveWell Portal.
+
+## Products
+- [Safe Driving Technology](https://www.cmtelematics.com/safe-driving-technology/): DriveWell Fusion platform overview
+- [How It Works](https://www.cmtelematics.com/safe-driving-technology/how-it-works/): Platform architecture and data fusion
+- [Product Suite](https://www.cmtelematics.com/safe-driving-technology/product-suite/): UBI, crash, distraction, and engagement products
+- [Insurance Solutions](https://www.cmtelematics.com/safe-driving-technology/insurance/): Usage-based insurance offerings
+- [DriveWell Fleet](https://www.cmtelematics.com/drivewell-fleet/): Commercial fleet safety
+- [StreetVision](https://www.cmtelematics.com/streetvision/): Public-sector road safety
+
+## Developer
+- [DriveWell Mobile SDK](https://www.cmtelematics.com/cmt-mobile-sdk/): iOS/Android SDK for integrating telematics (gated; contact required)
+- [DriveWell Portal](https://portal.cmtelematics.com): Customer/developer portal (login required, AWS Cognito SSO)
+- [Engineering Blog](https://www.cmtelematics.com/engineering/): CMT engineering posts
+- [GitHub (Censio)](https://github.com/Censio): CMT GitHub organization
+
+## Docs
+- [News & Insights](https://www.cmtelematics.com/news-and-insights/): Company blog and announcements
+- [Customer Support](https://www.cmtelematics.com/customer-support/): Support resources
+- [Contact](https://www.cmtelematics.com/contact-us/): Contact form
+
+## Security & Compliance
+- ISO 27001, ISO 27701 (PIMS), ISO 22301, SOC 2 Type II aligned; audited annually
+- [Privacy Policy](https://www.cmtelematics.com/privacy-policy/): Data privacy program (privacy@cmtelematics.com)
+- [Mobile License Agreement](https://www.cmtelematics.com/mobilelicense/): Terms of use
