@@ -43,7 +43,7 @@ accessModel:
   method: derived
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-10-06'
 image: https://portal.cmtelematics.com/static/home/v2/logo.png
 tags:
 - Company
@@ -74,6 +74,8 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- url: https://www.cmtelematics.com/feed/
+  type: BlogRSS
 - type: DomainSecurity
   url: security/cambridge-mobile-telematics-domain-security.yml
 - type: Website
