@@ -1,0 +1,42 @@
+generated: '2026-10-14'
+method: searched
+checked:
+- duck-creek/integrations/duck-creek-integration-edges.yml
+- geotab/integrations/geotab-integration-edges.yml
+source:
+- duck-creek/integrations/duck-creek-integration-edges.yml
+- geotab/integrations/geotab-integration-edges.yml
+edges:
+- partner_name: Duck Creek (own)
+  partner: duck-creek
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://www.duckcreek.com/partner/cambridge-mobile-telematics/
+  mirror_of: duck-creek/integrations/duck-creek-integration-edges.yml
+  apps:
+  - Cambridge Mobile Telematics
+  listing_count: 1
+  detected: '2026-10-14'
+  detected_by: mirror-platform-listings.py
+  category: Solution
+- partner_name: Geotab (own)
+  partner: geotab
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://marketplace.geotab.com/partner/cambridge-mobile-telematics-cmt/
+  mirror_of: geotab/integrations/geotab-integration-edges.yml
+  apps:
+  - Cambridge Mobile Telematics (CMT)
+  listing_count: 1
+  detected: '2026-10-14'
+  detected_by: mirror-platform-listings.py
